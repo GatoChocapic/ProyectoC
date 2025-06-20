@@ -11,7 +11,7 @@ namespace Epe_2
 {
 
 
-    public partial class WebForm1
+    public partial class WebForm6
     {
 
         /// <summary>
@@ -24,57 +24,48 @@ namespace Epe_2
         protected global::System.Web.UI.HtmlControls.HtmlForm form1;
 
         /// <summary>
-        /// Control btIrPagina1.
+        /// Control btMostrar.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btIrPagina1;
+        protected global::System.Web.UI.WebControls.Button btMostrar;
 
         /// <summary>
-        /// Control btIrPagina2.
+        /// Control lbLocal.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btIrPagina2;
+        protected global::System.Web.UI.WebControls.Label lbLocal;
 
         /// <summary>
-        /// Control btIrPagina3.
+        /// Control lbInstancia.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btIrPagina3;
+        protected global::System.Web.UI.WebControls.Label lbInstancia;
 
         /// <summary>
-        /// Control btIrPagina4.
+        /// Control lbEstatica.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btIrPagina4;
+        protected global::System.Web.UI.WebControls.Label lbEstatica;
 
         /// <summary>
-        /// Control btIrPagina5.
+        /// Control btVolver.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btIrPagina5;
-
-        /// <summary>
-        /// Control btIrPagina6.
-        /// </summary>
-        /// <remarks>
-        /// Campo generado automáticamente.
-        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btIrPagina6;
+        protected global::System.Web.UI.WebControls.Button btVolver;
     }
 }

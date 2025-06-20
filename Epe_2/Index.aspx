@@ -26,8 +26,11 @@
             <h2>Pagina 3</h2>
             <asp:Button ID="btIrPagina3" runat="server" Text="Formulario de contacto" OnClick="btIrPagina3_Click" CssClass="bt-negro"/>
             <h2>Pagina 4</h2>
-            <asp:Button ID="btIrPagina4" runat="server" Text="Calculadora basica" OnClick="btIrPagina4_Click" CssClass="bt-negro"/>
-
+            <asp:Button ID="btIrPagina4" runat="server" Text="Calculadora basica" OnClick="btIrPagina4_Click" CssClass="bt-morado" />
+            <h2>Pagina 5</h2>
+            <asp:Button ID="btIrPagina5" runat="server" Text="Ambito de variables" OnClick="btIrPagina5_Click" CssClass="bt-naranjo" />
+            <h2>Pagina 6</h2>
+            <asp:Button ID="btIrPagina6" runat="server" Text="Ejemplo de Array y Vectores" OnClick="btIrPagina6_Click" CssClass="bt-celeste" />
 
 
 

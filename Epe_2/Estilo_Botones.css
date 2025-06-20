@@ -2,8 +2,6 @@
     font-family: Calibri;
 }
 
-
-
 .bt-verde {
     background-color: green;
     color: white;
@@ -31,8 +29,6 @@
     cursor: pointer;
 }
 
-
-
 .bt-negro {
     background-color: black;
     color: white;
@@ -42,6 +38,32 @@
     cursor: pointer;
 }
 
+.bt-morado {
+    background-color: purple;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+
+.bt-naranjo {
+    background-color: orange;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
 
 
 
+bt-celeste {
+    background-color: deepskyblue;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}

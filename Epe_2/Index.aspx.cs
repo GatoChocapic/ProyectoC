@@ -32,11 +32,29 @@ namespace Epe_2
         {
             Response.Redirect("Pagina_3.aspx");
         }
-
+        //Boton para ir a la pagina 4
         protected void btIrPagina4_Click(object sender, EventArgs e)
         {
             
             Response.Redirect("Pagina_4.aspx");
         }
+        //Boton para ir a la pagina 5
+        protected void btIrPagina5_Click(object sender, EventArgs e)
+        {
+
+            Response.Redirect("Pagina_5.aspx");
+        }
+
+        protected void btIrPagina6_Click(object sender, EventArgs e)
+        {
+
+            Response.Redirect("Pagina_6.aspx");
+        }
+
+
+
+
+
     }
+
 }

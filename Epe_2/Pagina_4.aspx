@@ -36,7 +36,7 @@
                 <asp:ListItem Text="División (/)" Value="/"></asp:ListItem>
             </asp:DropDownList><br /><br />
 
-            <asp:Button ID="btCalcular" runat="server" Text="Calcular" OnClick="btCalcular_Click" /><br /><br />
+            <asp:Button ID="btCalcular" runat="server" Text="Calcular" OnClick="btCalcular_Click" CssClass="bt-verde"/><br /><br />
 
             <asp:Label ID="lbResultado" runat="server" Font-Bold="True" ForeColor="Blue"></asp:Label>
 
